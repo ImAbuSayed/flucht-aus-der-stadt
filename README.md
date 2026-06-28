@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/flucht-aus-der-stadt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Flucht aus der Stadt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flucht-aus-der-stadt/) |
+| **Get License** | [Get License For Flucht aus der Stadt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flucht-aus-der-stadt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig ein, wir lassen heute alles hinter uns.. ja..
+> Die Lichter fliegen vorbei, nur du und ich im Fokus
+> Gib mir deine Hand, fühl den Bass in der Brust
+> Wir fliehen aus der Stadt, Baby, nur mit einem Kuss
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
