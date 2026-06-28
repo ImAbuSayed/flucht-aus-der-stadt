@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Flucht aus der Stadt
+
+This log tracks the cryptographic history and versioning for the song **Flucht aus der Stadt** (flucht-aus-der-stadt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T12:13:28.680152 | `v1` | `d22fb0372282b026886a4c03a043260773947b3d09370ce143cbd7ee500c343c` | `9f4324fed631919dddf7f69b91f53b721d188e353b5892d36224745aa74f07b3` | `2026-06-28_flucht-aus-der-stadt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
